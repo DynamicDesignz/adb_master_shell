@@ -1,0 +1,2 @@
+fastboot -w
+fastboot -i 0x2a96 erase config

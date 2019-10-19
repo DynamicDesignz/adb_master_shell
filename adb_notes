@@ -1,0 +1,11 @@
+GET: Google Account Manager, Google FRP Bypass APK,
+CHECK: Flash Stock Phone Firmware Bypass FRP?
+
+CREATE script to profile android phones...
+
+-GET: make model chipset, serial number, imei, vuls, fastboot_state, 
+
+adb logcat dump to pi
+
+
+Download ADBWIRELESS APK TO REMOTE ADB INTO PHONES THAT ARE FRP LOCKED AND ALLOW WIRELESS SETUP CONFIG!

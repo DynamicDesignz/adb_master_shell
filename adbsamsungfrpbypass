@@ -1,0 +1,2 @@
+adb shell content insert --url content://settings/secure --bind name:s:user setup complete --bind value:s:1
+

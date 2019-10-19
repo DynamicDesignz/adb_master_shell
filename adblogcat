@@ -1,0 +1,1 @@
+adb logcat -d /home/pi/Desktop/logcat_dump
